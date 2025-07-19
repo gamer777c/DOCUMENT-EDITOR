@@ -70,3 +70,4 @@ Vercel/Netlify (for frontend only if API is hosted separately)
 🙏 Acknowledgments
 Inspired by collaborative tools like Google Docs and real-time tutorials on Socket.io.
 OUTPUT
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/713285fa-e9c8-4523-bf4a-1fb50c733810" />
